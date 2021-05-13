@@ -3,6 +3,8 @@
 SimpleDNS is a very simple DNS server.
 It was made to learn the basics of the DNS protocol.
 
+#### Report of available at: [report](https://github.com/homomorfism/dns_server/blob/master/Report%20(1).pdf)
+
 Features:
 * very small
 * single-threaded
